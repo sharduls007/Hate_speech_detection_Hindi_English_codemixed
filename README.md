@@ -10,7 +10,7 @@ If you are using the annotation guidelines mentioned on this page, then please s
     month = May,
     year = "2020",
     publisher = "Association for Computational Linguistics",
-    abstract = "Hate speech detection in  social media communication has become one of the primary concerns to avoid conflicts and curb undesired activities. In an environment where multilingual speakers switch among multiple languages, hate speech detection becomes a challenging task using methods that are designed for monolingual corpora. In our work, we attempt to analyze, detect and provide a comparative study of hate speech in a code-mixed social media text. We also provide a Hindi-English code-mixed data set consisting of Facebook and Twitter posts and comments. Our experiments show that deep learning models trained on this code-mixed corpus perform better.",}
+    }
 
 ## Annotation Guidelines
 
