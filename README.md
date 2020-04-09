@@ -29,28 +29,28 @@ In the example above, the tweet itself is not something that shows hate speech b
 Level 1 : Hate Speech Identification
 The one and only level  is a simple binary class classification in which we  between hate speech and non-hate speech posts. The two labels used for this categorization are:
 - (NOT) Not hate speech – The posts which do not contain any sort of offense or profanity either covert or overt. Examples:
--- “raise your voice louder,comrades.”
--- “ना बिटिया माफ करेगी  ना माँ गंगा... #BHU_लाठीचार्ज #bhu_molestation #BHUatJantarMantar”
-Neither your daughter nor goddess ganga will forgive you.
+    - “raise your voice louder,comrades.”
+    - “ना बिटिया माफ करेगी  ना माँ गंगा... #BHU_लाठीचार्ज #bhu_molestation #BHUatJantarMantar”
+    - Neither your daughter nor goddess ganga will forgive you.
 
 - (HAT) Hate Speech – Any post which contains direct or indirect offensive language or any kind of threat. It is considered offensive in nature if it contains insults, threats, slangs, profane language and swear words within the context of the whole post. Some posts may contain covert offensive language, which is expressed through sarcasm, satire or polite expressions. Examples:
--- “teri ma ka bur chodna hai ma se puch kar bata mc me to nahi hai kyo ki bur me muh bhi lagana hai”
--- I want to fuck your mother. Ask your mother and let me know because I want to suck it as well.
--- “rssabvp vhp bajarangadal have no balls whenever bjp came to power at center laffada bjpvhp rssabvp start violence in streets colleges hotels pubs as if they komani when congress government at centre all blunder pariwar disappeared that's why they have no balls”
--- “Well, Ravish Kumar is as much a journalist as Kanhaiya is a student...what's new #ShutDownJNU ”
+    - “teri ma ka bur chodna hai ma se puch kar bata mc me to nahi hai kyo ki bur me muh bhi lagana hai”
+    - I want to fuck your mother. Ask your mother and let me know because I want to suck it as well.
+    - “rssabvp vhp bajarangadal have no balls whenever bjp came to power at center laffada bjpvhp rssabvp start violence in streets colleges hotels pubs as if they komani when congress government at centre all blunder pariwar disappeared that's why they have no balls”
+    - “Well, Ravish Kumar is as much a journalist as Kanhaiya is a student...what's new #ShutDownJNU ”
 
 - If the post aimed towards the stereotypical gender roles of the victim as well as the offender. It also includes offensive references to one’s sexuality and sexual orientation. It should be marked as hate speech as these posts are targeted towards specific communities to demean them. For example:
---"मर्द की कीमती चीज उसकी ज़ुबान होती है  सीना तो बहुत से हीजड़ो का भी 56 इंच होता है .. #BHU_लाठीचार्ज #bhu_molestation #BHUProtests”
---The most precious thing about a man is his words, not the length of the chest as even a spado has 56’’ chest.
+    - "मर्द की कीमती चीज उसकी ज़ुबान होती है  सीना तो बहुत से हीजड़ो का भी 56 इंच होता है .. #BHU_लाठीचार्ज #bhu_molestation #BHUProtests”
+    - The most precious thing about a man is his words, not the length of the chest as even a spado has 56’’ chest.
 
 - Any comment / post which attacks a previous comment / post. It can be a hate speech. A couple of examples are given below.
--- Muh kala hai dogle ka dil bhi kala gaddar hai mujhe tum dikh jaye sala juta marunga dogala deshdrohi
+    - Muh kala hai dogle ka dil bhi kala gaddar hai mujhe tum dikh jaye sala juta marunga dogala deshdrohi
 
--- This hypocrite has lost his face, his heart is also bad, as soon as I shall see you moron, will hit you with a shoe, you hypocritical anti-national
+    - This hypocrite has lost his face, his heart is also bad, as soon as I shall see you moron, will hit you with a shoe, you hypocritical anti-national
 
--- tera samdhi mulayam singh yadav bolta tha rape koi badi galti nahi baccho se galti ho jaati hai. phaasi ki kya jarurat hain. pravachan aur updesh khatam kaha hotey hain. 100 chuhe khaakar billa chala haj ko.
+    - tera samdhi mulayam singh yadav bolta tha rape koi badi galti nahi baccho se galti ho jaati hai. phaasi ki kya jarurat hain. pravachan aur updesh khatam kaha hotey hain. 100 chuhe khaakar billa chala haj ko.
 
--- Your child’s father-in-law Mulayam Singh used to say that rape is not a big mistake and children make such mistakes. What is the use of hanging till death? The preaching and speech hardly ends. He is now pleading innocence after committing hundreds of crimes.
+    - Your child’s father-in-law Mulayam Singh used to say that rape is not a big mistake and children make such mistakes. What is the use of hanging till death? The preaching and speech hardly ends. He is now pleading innocence after committing hundreds of crimes.
 - Any post which is directed towards particular community/ ethnic minorities, is considered as hate speech. Example:
 अगर 370 और 35A हटी तो कश्मीरी मुसलमान कहां रहेंगे- उमर अब्दुल्ला ।    मैं बताता हूँ भोसड़ीके वो सब फिर अपनी औकात में रहेंगे ।। 
 Where will muslim live if article 370 and 35A is removed. I will tell you Crotch.
