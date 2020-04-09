@@ -10,10 +10,9 @@ If you are using the annotation guidelines mentioned on this page, then please s
     month = May,
     year = "2020",
     publisher = "Association for Computational Linguistics",
-    abstract = "Hate speech detection in  social media communication has become one of the primary concerns to avoid conflicts and curb undesired activities. In an environment where multilingual speakers switch among multiple languages, hate speech detection becomes a challenging task using methods that are designed for monolingual corpora. In our work, we attempt to analyze, detect and provide a comparative study of hate speech in a code-mixed social media text. We also provide a Hindi-English code-mixed data set consisting of Facebook and Twitter posts and comments. Our experiments show that deep learning models trained on this code-mixed corpus perform better.",
-}
+    abstract = "Hate speech detection in  social media communication has become one of the primary concerns to avoid conflicts and curb undesired activities. In an environment where multilingual speakers switch among multiple languages, hate speech detection becomes a challenging task using methods that are designed for monolingual corpora. In our work, we attempt to analyze, detect and provide a comparative study of hate speech in a code-mixed social media text. We also provide a Hindi-English code-mixed data set consisting of Facebook and Twitter posts and comments. Our experiments show that deep learning models trained on this code-mixed corpus perform better.",}
 
-Annotation Guidelines
+## Annotation Guidelines
 
 Hate Speech could be understood as any kind of linguistic behaviour, which is intended to target an individual or community and show their dissent using offensive and abusive content. The following document presents the guidelines for annotation of social media comments and posts for hate speech detection research at the Data Science Institute, National University of Ireland Galway. All the examples in this guideline are retrieved from either from Facebook or Twitter.          
 The data will be annotated at the document level which means annotation will be done for the complete post, a comment, a tweet or a single unit of the discourse. The annotation will be conducted at one level. The current annotation phase consists of three round of annotation of 500 tweets per annotator in the first and second around and 2000 tweets in the third round. The goal of the annotation is to calculate inter annotator agreement and to improve the guidelines accordingly in each phase of the annotation and find the possible problems. It will be carried out using simple google forms. Each google form consists of 100 tweets.
@@ -25,7 +24,7 @@ A female student has been molested again in BHU. The student mobile has been sna
 
 In the example above, the tweet itself is not something that shows hate speech but the action which leads to such tweets that is BHU molestation is offensive as well as targeted towards an individual. Therefore the tweet will not be annotated with respect to the action but the tweet itself. If the tweet itself is biased and reinforces or makes use of a biased or stereotypical representation of a particular hate speech then it should be marked as hate speech.
 
-Annotation Scheme
+**Annotation Scheme**
 
 Level 1 : Hate Speech Identification
 The one and only level  is a simple binary class classification in which we  between hate speech and non-hate speech posts. The two labels used for this categorization are:
