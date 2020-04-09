@@ -19,8 +19,8 @@ The data will be annotated at the document level which means annotation will be 
 
 The annotation will not require that the participants to write the tweets but the annotation will be done on the basis of tweets itself. For example : - 
 
-“वाराणसी: BHU में फिर एक छात्रा से छेड़छाड़  लड़की की पिटाई के बाद छीना गया मोबाइल #BHU #BHU_लाठीचार्ज #BHU_Molestation”
-A female student has been molested again in BHU. The student mobile has been snatched away after beating her.
+    “वाराणसी: BHU में फिर एक छात्रा से छेड़छाड़  लड़की की पिटाई के बाद छीना गया मोबाइल #BHU #BHU_लाठीचार्ज #BHU_Molestation”
+    A female student has been molested again in BHU. The student mobile has been snatched away after beating her.
 
 In the example above, the tweet itself is not something that shows hate speech but the action which leads to such tweets that is BHU molestation is offensive as well as targeted towards an individual. Therefore the tweet will not be annotated with respect to the action but the tweet itself. If the tweet itself is biased and reinforces or makes use of a biased or stereotypical representation of a particular hate speech then it should be marked as hate speech.
 
