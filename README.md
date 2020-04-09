@@ -1,4 +1,4 @@
-# Hate_speech_detection_Hindi_English_codemixed
+# A Comparative Study of Different State-of-the-Art Hate Speech Detection Methods for Hindi-English Code-Mixed Data
 
 If you are using the annotation guidelines mentioned on this page, then please site our paper:
 
@@ -51,6 +51,6 @@ The one and only level  is a simple binary class classification in which we  bet
     - tera samdhi mulayam singh yadav bolta tha rape koi badi galti nahi baccho se galti ho jaati hai. phaasi ki kya jarurat hain. pravachan aur updesh khatam kaha hotey hain. 100 chuhe khaakar billa chala haj ko.
 
     - Your child’s father-in-law Mulayam Singh used to say that rape is not a big mistake and children make such mistakes. What is the use of hanging till death? The preaching and speech hardly ends. He is now pleading innocence after committing hundreds of crimes.
-- Any post which is directed towards particular community/ ethnic minorities, is considered as hate speech. Example:
-अगर 370 और 35A हटी तो कश्मीरी मुसलमान कहां रहेंगे- उमर अब्दुल्ला ।    मैं बताता हूँ भोसड़ीके वो सब फिर अपनी औकात में रहेंगे ।। 
-Where will muslim live if article 370 and 35A is removed. I will tell you Crotch.
+- Any post which is directed towards particular community/ ethnic minorities, is considered as hate speech. 
+    - Example:अगर 370 और 35A हटी तो कश्मीरी मुसलमान कहां रहेंगे- उमर अब्दुल्ला ।    मैं बताता हूँ भोसड़ीके वो सब फिर अपनी औकात में रहेंगे ।। 
+    Where will muslim live if article 370 and 35A is removed. I will tell you Crotch.
